@@ -4,7 +4,7 @@ body{
 }
 
 .mycanvas {
-    background-color: lawngreen;
+    background-color: rgb(196, 230, 163);
     height: 500px;
     width: 500px;
     position: absolute;
@@ -16,7 +16,7 @@ body{
 }
 
 .ball {
-    background-color: lightcoral;
+    background-color: rgb(43, 11, 11);
     height: 50px;
     width: 50px;
     border-radius: 50%;
@@ -42,7 +42,7 @@ body{
     }
     75%{
         height: 50px;
-        width: 57%;
+        width: 57px;
     }
     100%{
         transform: translateY(0px);
